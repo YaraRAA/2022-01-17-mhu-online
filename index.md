@@ -14,7 +14,7 @@ humantime: "10:00 am - 2:00 pm EST (3:00 pm - 7:00 pm UTC)"    # human-readable 
 startdate: 2022-01-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-01-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sanjay Fuloria", "Annajiat Alim Rasel", "Yara Abu Awad"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Robert A Zinna:Facilitator", "Jonna Kwiatkowski:Breakout manager", "helper three"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Robert A Zinna:Facilitator", "Jonna Kwiatkowski:Breakout manager", "Laura Boggess:Technical Helper"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["robert_zinna@mhu.edu","sanjayfuloria@gmail.com", "annajiat@gmail.com", "yara_abuawad@yahoo.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://pad.carpentries.org/2022-01-17-mhu-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: "215948597067"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
